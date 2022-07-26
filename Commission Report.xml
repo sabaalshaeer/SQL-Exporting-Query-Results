@@ -1,0 +1,64 @@
+﻿<report>
+  <repid>E01</repid>
+  <repname>Kent Allard              </repname>
+  <commrate>5 %</commrate>
+  <total_sales>$ 146,259.30</total_sales>
+  <commission>$ 7,312.97</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>N02</repid>
+  <repname>Pat Powell              </repname>
+  <commrate>3 %</commrate>
+  <total_sales>$ 105,641.00</total_sales>
+  <commission>$ 3,169.23</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>W01</repid>
+  <repname>Anna Nolan               </repname>
+  <commrate>2 %</commrate>
+  <total_sales>$ 90,803.90</total_sales>
+  <commission>$ 1,816.08</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>N01</repid>
+  <repname>Richard Gibson              </repname>
+  <commrate>3 %</commrate>
+  <total_sales>$ 76,349.90</total_sales>
+  <commission>$ 2,290.50</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>S03</repid>
+  <repname>Charlotte Matthews            </repname>
+  <commrate>4 %</commrate>
+  <total_sales>$ 64,107.50</total_sales>
+  <commission>$ 2,564.30</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>E02</repid>
+  <repname>Margo Lane                </repname>
+  <commrate>5 %</commrate>
+  <total_sales>$ 62,674.30</total_sales>
+  <commission>$ 3,133.72</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>S01</repid>
+  <repname>George Cranston            </repname>
+  <commrate>4 %</commrate>
+  <total_sales>$ 61,468.80</total_sales>
+  <commission>$ 2,458.75</commission>
+  <Year>2017</Year>
+</report>
+<report>
+  <repid>S02</repid>
+  <repname>Amelia Rose                </repname>
+  <commrate>5 %</commrate>
+  <total_sales>$ 11,813.20</total_sales>
+  <commission>$ 590.66</commission>
+  <Year>2017</Year>
+</report>
